@@ -1,6 +1,6 @@
 ## Requirements
 
-You need to have install nodejs in your system
+You need to install nodejs in your system
 
 
 ### Clone this repository using the command
